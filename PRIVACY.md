@@ -38,4 +38,4 @@ If the privacy practices change in a future version (for example, when a backend
 
 ## Contact
 
-For any privacy questions, contact: **[your email]**
+For any privacy questions, contact: **machinalny-ios@proton.me**
